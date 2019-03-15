@@ -1,2 +1,2 @@
 # Basic-2D-Proyect
-Basic 2d pryect made with unity
+Basic 2d proyect made with atlas
