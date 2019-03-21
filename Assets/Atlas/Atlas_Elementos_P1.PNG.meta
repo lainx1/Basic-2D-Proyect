@@ -1,0 +1,709 @@
+fileFormatVersion: 2
+guid: 18d5523cf3fd6c0438a0d23d013bcd9c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Text1
+    21300002: Text2
+    21300004: Bird_Fliying
+    21300006: Bird_Static_Foots
+    21300008: Bird_Static_Body
+    21300010: Leaf1
+    21300012: Leaf2
+    21300014: Flower1
+    21300016: Flower2
+    21300018: Cloud2
+    21300020: Cloud3
+    21300022: Cloud1
+    21300024: BG
+    21300026: Cat_Eyes
+    21300028: Cat_Tail
+    21300030: Cat_Body
+    21300032: Mikka_Cap
+    21300034: Mikka_Eyes
+    21300036: Mikka_Right_Arm
+    21300038: Mikka_Left_Foot
+    21300040: Mikka_Right_Foot
+    21300042: Mikka_Left_Arm
+    21300044: Mikka_Front_Hair_1
+    21300046: Mikka_Back_Hair
+    21300048: Mikka_Front_Hair_2
+    21300050: Mikka_Body
+    21300052: Wind_Lines
+    21300054: Floor_Chair
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Text1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 661
+        width: 754
+        height: 132
+      alignment: 9
+      pivot: {x: 0.49574926, y: 0.79136425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b29b9aebab4ecd47a99667ef79d342c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 450
+        width: 845
+        height: 160
+      alignment: 9
+      pivot: {x: 0.49620697, y: 0.8805946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477d02eab3700bf4ab2b34291cdcf8e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_Fliying
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 358
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.55450845, y: 0.35024297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c5521545a779f4cb97ec3baf528521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_Static_Foots
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 320
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445040617ace2b04a89c33ecb42319aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_Static_Body
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 246
+        width: 62
+        height: 59
+      alignment: 9
+      pivot: {x: 0.6044715, y: 0.013816445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4657541426e8f48895f79372cbd8df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf1
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 189
+        width: 41
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5315961, y: 0.50402266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aafd1c471572e45a55d6449e96cef2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaf2
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 124
+        width: 42
+        height: 40
+      alignment: 9
+      pivot: {x: 0.56168693, y: 0.41209412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c341cf17a99ab47a20822deb10150e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower1
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 67
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.49725682, y: 0.49471217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62df392ba6a75c74cb7ff161c7107178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 11
+        width: 33
+        height: 32
+      alignment: 9
+      pivot: {x: 0.49999908, y: 0.47860062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54453781309058544b4256e873afc294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 28
+        width: 238
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0e8a10a172de446bfd3ce2443b4101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 26
+        width: 175
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f3db3e129e208409aebcc23cfee458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud1
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 249
+        width: 219
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fc879406e7143418b45dab82197443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 12
+        width: 338
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0100e8685bf6761429f4244f5a76d8fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_Eyes
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 774
+        width: 42
+        height: 13
+      alignment: 9
+      pivot: {x: 0.48601133, y: 0.43672064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e0b66897e6b0848b016bd02d0b968a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_Tail
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 666
+        width: 36
+        height: 65
+      alignment: 9
+      pivot: {x: 0.45980155, y: 0.062176045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ed946b897a6234a839fdf7eb611ce9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat_Body
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 663
+        width: 154
+        height: 66
+      alignment: 9
+      pivot: {x: 0.48747113, y: 0.33921674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac402fa5e0f8214e82243053c4773fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_Cap
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 918
+        width: 146
+        height: 50
+      alignment: 9
+      pivot: {x: 0.51465094, y: 0.050825194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fd14e40a4b80b4999fdb9edba60b90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_Eyes
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 941
+        width: 76
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2abcca456a89d740a07ec32059fadec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_Right_Arm
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 919
+        width: 71
+        height: 48
+      alignment: 9
+      pivot: {x: 0.14540121, y: 0.87881345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c3328b18ae10c4ab2c954e080fb1cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_Left_Foot
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 911
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.43017772, y: 0.30220154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2924c698020a3e4479ba3680cedd7c9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_Right_Foot
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 800
+        width: 58
+        height: 63
+      alignment: 9
+      pivot: {x: 0.61898065, y: 0.23984395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d865b4c1ef0604c886eaa00df8b0b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_Left_Arm
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 820
+        width: 42
+        height: 48
+      alignment: 9
+      pivot: {x: 0.7997175, y: 0.88852566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f67303b82f2ee946b05a6058b92d392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_Front_Hair_1
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 747
+        width: 14
+        height: 23
+      alignment: 9
+      pivot: {x: 0.24087961, y: 0.85789156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1cab91aab43a446b186af7a2a510a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_Back_Hair
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 662
+        width: 77
+        height: 88
+      alignment: 9
+      pivot: {x: 0.96713454, y: 0.84608877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223672e3f30028e4797a8d58e754effc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_Front_Hair_2
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 643
+        width: 21
+        height: 39
+      alignment: 9
+      pivot: {x: 0.7856736, y: 0.9435941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc905deb552cb054b8838f9e0cf4f4ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mikka_Body
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 662
+        width: 227
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5179954, y: 0.34020248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ccfbe61a63d6b41aced1a8b7983024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wind_Lines
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 341
+        width: 1053
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0957ef9456797b942a1eee2968365508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Chair
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 9
+        width: 1123
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9f447ed1f72904690c7f0fee394c98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d1ac5dc8ec69b5a4d9646154a0f1416b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
