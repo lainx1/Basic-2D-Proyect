@@ -53,3 +53,6 @@ TagManager:
   - name: Mikka
     uniqueID: 2852662379
     locked: 0
+  - name: Cat
+    uniqueID: 165773773
+    locked: 0
